@@ -47,8 +47,7 @@ Dynamic-Speed-Limit-System/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Dynamic-Speed-Limit-System.git
-cd Dynamic-Speed-Limit-System
+git clone https://https://github.com/SumitLohar3566/Dynamic-Speed-Limit-System/tree/master
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
