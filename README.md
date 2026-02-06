@@ -1,40 +1,40 @@
-🚗 Dynamic Speed Limit System 🚦
+### Dynamic Speed Limit System 
 
 The Dynamic Speed Limit System is an interactive Streamlit web application that dynamically determines speed limits for light and heavy vehicles based on time of day, weather conditions, and selected highways.
 
 It is designed to promote road safety, smart driving, and traffic awareness using a visually rich and intuitive interface.
 
-✨ Key Features
+# Key Features:
 
-🛣️ Select from 20+ major Indian highways
+- Select from 20+ major Indian highways
 
-⏰ Time-based speed limit calculation
+- Time-based speed limit calculation
 
-🌦️ Weather-aware driving conditions
+- Weather-aware driving conditions
 
-🚗 Separate limits for light & heavy vehicles
+- Separate limits for light & heavy vehicles
 
-⚠️ Automatic safety warnings for risky conditions
+- Automatic safety warnings for risky conditions
 
-📊 Speed-limit trends table
+- Speed-limit trends table
 
-📥 Downloadable CSV speed report
+- Downloadable CSV speed report
 
-🎨 Premium animated UI with modern styling
+- Premium animated UI with modern styling
 
-🛠 Tech Stack
+# Tech Stack:
 
-Language: Python
+- Language: Python
 
-Framework: Streamlit
+- Framework: Streamlit
 
-Data Handling: Pandas, NumPy
+- Data Handling: Pandas, NumPy
 
-UI Styling: Custom HTML + CSS
+- UI Styling: Custom HTML + CSS
 
-Export: CSV report generation
+- Export: CSV report generation
 
-📂 Project Structure
+# Project Structure:
 Dynamic-Speed-Limit-System/
 │
 ├── app.py                  # Main Streamlit application
@@ -45,35 +45,35 @@ Dynamic-Speed-Limit-System/
 │   ├── result.png
 │   └── report.png
 
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
+# Installation & Setup
+1. Clone the Repository
 git clone https://https://github.com/SumitLohar3566/Dynamic-Speed-Limit-System/tree/master
 
-2️⃣ Install Dependencies
+2. Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run the Application
+3. Run the Application
 streamlit run app.py
 
-🧠 How It Works
+# How It Works
 
-Select a highway
+- Select a highway
 
-Choose time slot and date
+- Choose time slot and date
 
-Click Calculate Speed Limits
+- Click Calculate Speed Limits
 
-The system:
+# The system:
 
-Determines weather & road condition
+- Determines weather & road condition
 
-Assigns safe speed limits
+- Assigns safe speed limits
 
-Displays warnings if required
+- Displays warnings if required
 
-Download a CSV speed limit report
+- Download a CSV speed limit report
 
-📊 Speed Logic (Algorithm)
+# Speed Logic (Algorithm):
 Time Slot	Light Vehicles	Heavy Vehicles	Condition
 6–9 AM	60 km/h	40 km/h	Fog
 9–12 PM	100 km/h	80 km/h	Clear
@@ -81,10 +81,10 @@ Time Slot	Light Vehicles	Heavy Vehicles	Condition
 3–7 PM	60 km/h	40 km/h	Heavy Rain
 7 PM+	100 km/h	80 km/h	Clear Night
 
-✔ Algorithm is constant & deterministic
-✔ No random values used
+- Algorithm is constant & deterministic
+- No random values used
 
-📸 Screenshots
+## Screenshots:
 <img width="1656" height="717" alt="Screenshot 2026-01-15 090027" src="https://github.com/user-attachments/assets/82f91211-3e2a-4581-83cf-0f1fa4c6fcfb" />
 <img width="1905" height="615" alt="Screenshot 2026-01-15 090040" src="https://github.com/user-attachments/assets/fc61ac51-6e47-4611-acdc-231d5b498610" />
 <img width="1809" height="650" alt="Screenshot 2026-01-15 090054" src="https://github.com/user-attachments/assets/2576d8c7-d166-4862-97e8-2ceb0cb79227" />
@@ -95,21 +95,24 @@ Time Slot	Light Vehicles	Heavy Vehicles	Condition
 <img width="1483" height="833" alt="Screenshot 2026-01-15 090309" src="https://github.com/user-attachments/assets/c53d4094-f023-4c40-bdc6-1e1a3b9e619e" />
 <img width="1486" height="870" alt="Screenshot 2026-01-15 090320" src="https://github.com/user-attachments/assets/48deefe7-7dc6-41b1-9486-e51cead8eec2" />
 
-⚠️ Disclaimer
+- Disclaimer
 
 This application is a simulation tool for awareness and educational purposes.
 Actual speed limits are governed by local traffic authorities.
 
-🌱 Future Enhancements
+# Future Enhancements
 
-📡 Real-time weather API integration
+- Real-time weather API integration
 
-🛰️ GPS-based automatic highway detection
+- GPS-based automatic highway detection
 
-📱 Mobile-optimized layout
+- Mobile-optimized layout
 
-🤖 AI-based traffic prediction
+- AI-based traffic prediction
 
-☁️ Cloud deployment dashboard
+- Cloud deployment dashboard
 
-📞 Contact Developer: Sumit Lohar 📧 Email:sumitlohar063@gmail.com 🐙 GitHub: https://github.com/SumitLohar3566🔗 LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
+- Contact Developer: Sumit Lohar
+- Email:sumitlohar063@gmail.com
+- GitHub: https://github.com/SumitLohar3566
+- LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
